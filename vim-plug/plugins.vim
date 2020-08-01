@@ -53,4 +53,7 @@ call plug#begin('~/.config/nvim/autoload/plugged')
     " Commenter
     Plug 'preservim/nerdcommenter'
 
+    " Zen mode
+    Plug 'junegunn/goyo.vim'
+
 call plug#end()
